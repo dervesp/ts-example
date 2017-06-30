@@ -1,0 +1,17 @@
+{
+  "name": "ts-example",
+  "version": "1.0.0",
+  "description": "example ts project",
+  "scripts": {
+    "start": "tsc --project ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dervesp/ts-example.git"
+  },
+  "author": "Vladimir Danilevskiy <dervesp@gmailcom>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.4.1"
+  }
+}

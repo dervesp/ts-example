@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "target": "es5",
+    "outFile": "./bin/build/bundle.js"
+  },
+  "files": [
+    "./src/main.ts"
+  ],
+  "include": [
+    "./src/**/*"
+  ]
+}
